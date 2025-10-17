@@ -5,6 +5,7 @@ EXPT NO: 3				STAIR CASE WIRING
 AIM
  To control the status of the given lamp by using two–way switches. 
 APPARATUS REQUIRED:
+![WhatsApp Image 2025-10-17 at 5 28 13 PM](https://github.com/user-attachments/assets/4e57afa2-6d85-4f1f-b358-284b528021be)
 
 S. No.
 Name of the apparatus	
